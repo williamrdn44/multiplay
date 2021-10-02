@@ -18,3 +18,14 @@
 <info>
 </channel>
 </channels>
+
+
+<channels>
+<channel>
+<name>[COLOR black][B]PRIME[COLOR blue][B]VIDEO[/B][/COLOR]</name>
+<thumbnail>https://lh3.googleusercontent.com/-Ye0qffBT8jY/YVeh1kdQmmI/AAAAAAAAE3U/NOqWvdVNX54KrwpJS7AXvyyACAkKgCf5wCLcBGAsYHQ/image.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/multiplay/main/netflix</externallink>
+<fanart>https://lh3.googleusercontent.com/-4Bp9f7O8Vpc/YVeiZTYsHKI/AAAAAAAAE3c/7ZKm-GlRNrUIpnRCFKspfr57fipbvehqgCLcBGAsYHQ/image.png</fanart>
+<info>
+</channel>
+</channels>

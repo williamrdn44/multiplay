@@ -29,3 +29,14 @@
 <info>
 </channel>
 </channels>
+
+
+<channels>
+<channel>
+<name>[COLOR blue][B]FILMES DIVERSOS[/B][/COLOR]</name>
+<thumbnail>https://lh3.googleusercontent.com/-iU_ElUR0hqY/YVejerfHXsI/AAAAAAAAE3k/TY-kb-OEqwAGFGDSBLWzRj_IsH5tivjCwCLcBGAsYHQ/image.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/multiplay/main/netflix</externallink>
+<fanart>https://1.bp.blogspot.com/-qJ9TjWGdcbA/YVekBfecCLI/AAAAAAAAE3w/1Ue91N9xohI8yf2t7Fs8ve4BrK4tVpCKwCLcBGAsYHQ/s0/diversos.jpg</fanart>
+<info>
+</channel>
+</channels>

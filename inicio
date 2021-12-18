@@ -47,3 +47,13 @@
 <info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]ANIMES[/B][/COLOR]</name>
+<thumbnail>https://lh3.googleusercontent.com/-14rlZXs4jkA/Yb4G2u9KkCI/AAAAAAAAFAI/mTfPZpi7MwI8fMo4ssRHv2Mu5jUXEMAPwCNcBGAsYHQ/image.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/williamrdn44/multiplay/main/MENU%20DE%20ANIMES</externallink>
+<fanart>https://lh3.googleusercontent.com/-QcynCVrZukg/Yb4HJ4BSa6I/AAAAAAAAFAQ/_9YNl_5JRzstw3pj5UhfI34_gRd33reaACNcBGAsYHQ/image.png</fanart>
+<info>
+</channel>
+</channels>

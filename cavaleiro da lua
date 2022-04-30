@@ -38,7 +38,7 @@
 
 <item>
 <title>[COLOR silver][B] EP 5 [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?=urimagnet:?xt=urn:btih:4e72c070fa13e2689102c917537334ceaadae646</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e72c070fa13e2689102c917537334ceaadae646</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7LMSllDXEVBBwY7yQop2CY0AW7I.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/1uegR4uAxRxiMyX4nQnpzbXhrTw.jpg</fanart>
 <info>

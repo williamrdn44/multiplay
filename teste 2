@@ -3,10 +3,9 @@
 
 ################## XXXX CANAIS XXXX ########################
 
-#EXTINF:-1 tvg-logo="http://oi44.tinypic.com/vwu3h0.jpg" group-title="ANIMES" pltv-subgroup="Dragon Ball ", ep teste 1
-http://localhost:65251/play?uri-magnet:?xt-urn:btih:ed0089cc736293e84321b1caa775f7c9ebd75f19&amp
-
-#EXTINF:-1 tvg-logo="http://oi44.tinypic.com/vwu3h0.jpg" group-title="ANIMES" pltv-subgroup="Dragon Ball ", teste 03
+#EXTINF:-1 tvg-logo="http://oi44.tinypic.com/vwu3h0.jpg" group-title="ANIMES" pltv-subgroup="Dragon Ball ", testei
+play?uri-magnet:?xt=urn:btih:ed0089cc736293e84321b1caa775f7c9ebd75f19&amp
+#EXTINF:-1 tvg-logo="http://oi44.tinypic.com/vwu3h0.jpg" group-title="ANIMES" pltv-subgroup="Dragon Ball ", novo
 http://localhost:65251/play?uri-magnet:?xt-urn:btih:ed0089cc736293e84321b1caa775f7c9ebd75f19&amp
 
 
